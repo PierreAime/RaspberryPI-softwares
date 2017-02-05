@@ -8,3 +8,4 @@ echo "Setup Gnucash"
 echo "-------------------------------"
 
 sudo apt-get install -y gnucash
+
