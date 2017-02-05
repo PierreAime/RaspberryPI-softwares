@@ -7,3 +7,4 @@ Logiciels et manipulations utiles pour la RASPBERRY 2 et +
 
 3-gnucash.sh --- logiciel de comptabilite
 
+4-webmin.sh --- alternative de Coyote Linux
